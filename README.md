@@ -58,7 +58,7 @@ To submit your solution, follow these steps:
 
 1. **Commit Changes**: Make sure to commit your code changes locally.
 1. **Push to GitHub**: Push your committed changes to your forked repository on GitHub.
-1. **Invite Us**: Invite @RamseyV @mattg87 @dysfunctioning @fsilvestre90 @uma-investifi and @chris-casey-1 to review the repo
+1. **Invite Us**: Invite @RamseyV @mattg87 @dysfunctioning @fsilvestre90 @uma-investifi @stureed and @chris-casey-1 to review the repo
 1. **Loom Video**: Create a short [loom video](https://www.loom.com/) (5 minutes or less) describing your approach and demoing the coding challenge. 
 1. **Email**: Once complete, please reach out to [Jennifer](jennifer.preston@investifi.co) our HR representive with the loom video attached and we will be in touch!
 
